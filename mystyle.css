@@ -333,6 +333,11 @@
             }
             @media(max-width:767px)
             {   
+                 .footer-main-row
+                 {
+                     padding-top:20px;
+                     padding-bottom:20px;
+                 }
                 .mob-view
                 {
                     display:block;
